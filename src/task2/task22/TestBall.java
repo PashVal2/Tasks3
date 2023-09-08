@@ -1,4 +1,6 @@
-package task2;
+package task2.task22;
+
+import task2.task22.Ball;
 
 import java.util.Scanner;
 public class TestBall {
