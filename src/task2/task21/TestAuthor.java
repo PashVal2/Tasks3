@@ -1,6 +1,7 @@
-package task2;
+package task2.task21;
 
-import java.util.Scanner;
+import task2.task21.Author;
+
 public class TestAuthor {
     public static void main(String[] args) {
         Author first_author = new Author("Georgin",  "chertin@gmail.com", 'm');
