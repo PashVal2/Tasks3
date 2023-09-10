@@ -2,7 +2,7 @@ package task2.task24;
 import java.util.Scanner;
 public class Tester {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         Shop shop = new Shop();
 
         while (true) {
@@ -12,7 +12,8 @@ public class Tester {
                 2) Убрать компьютер
                 3) Поиск компьютера
                 4) Выход""");
-
+            int choice = scanner.nextInt();
+            if (choice == 1) shop.addComp(scanner.toString());
         }
     }
 }
