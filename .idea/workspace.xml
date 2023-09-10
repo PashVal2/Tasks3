@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67b420aa-9f3c-4fee-ac1f-fb750849b7e2" name="Changes" comment="tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task24/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task24/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/task2/task24/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task24/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694358354239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tasks">
+      <option name="closed" value="true" />
+      <created>1694358846140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694358846140</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -76,5 +83,12 @@
     <MESSAGE value="task" />
     <MESSAGE value="tasks" />
     <option name="LAST_COMMIT_MESSAGE" value="tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="1" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
