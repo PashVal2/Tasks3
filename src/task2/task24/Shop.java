@@ -8,7 +8,7 @@ public class Shop {
     public void deleteComp(String tag) {
         this.list.remove(tag);
     }
-    public boolean Comp(String tag) {
+    public boolean findComp(String tag) {
         return this.list.contains(tag);
     }
 }
