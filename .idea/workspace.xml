@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b420aa-9f3c-4fee-ac1f-fb750849b7e2" name="Changes" comment="tasks">
-      <change afterPath="$PROJECT_DIR$/src/task2/task210/HowMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task31/RandMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task32/Doble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task33/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task33/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task33/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task21/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task21/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task21/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task21/TestAuthor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task22/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task22/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task22/TestBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task22/TestBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task23/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task23/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task23/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task23/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task23/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task23/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task24/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task24/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task24/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task24/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task25/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task25/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task25/DogKennel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task25/DogKennel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task26/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task26/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task26/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task26/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task27/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task27/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task27/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task27/BookShelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task27/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task27/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task28/reverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task28/reverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task29/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task29/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4/task41/seasons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task4/task41/seasons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/task4/task41/seasons.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -141,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694619894837</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tasks">
+      <option name="closed" value="true" />
+      <created>1695978521232</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695978521232</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
