@@ -2,7 +2,7 @@ package task2.task26;
 
 import java.util.Scanner;
 
-public class CircleTest {
+public class CircleTest { // тестирование класса окружности
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Circle c = new Circle(2.0, 3.0, 1.0);

@@ -1,8 +1,8 @@
 package task2.task25;
 import java.util.ArrayList;
 
-public class DogKennel {
-    private final ArrayList<Dog> dogs = new ArrayList<Dog>();
+public class DogKennel { // тестирование класса собаки
+    private final ArrayList<Dog> dogs = new ArrayList<>();
 
     public static void main(String [] args) {
         DogKennel kennel = new DogKennel();

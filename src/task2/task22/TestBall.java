@@ -1,10 +1,8 @@
 package task2.task22;
 
-import task2.task22.Ball;
-
 import java.util.Scanner;
 public class TestBall {
-    public static void main (String[] args) {
+    public static void main (String[] args) { // тестирование класса Ball
         Ball first_ball = new Ball(0.0, 0.0);
         System.out.println("X: " + first_ball.getX());
         System.out.println("Y: " + first_ball.getY());

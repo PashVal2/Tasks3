@@ -1,7 +1,7 @@
 package task2.task24;
 import java.util.Scanner;
 public class Tester {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // тестирование класса магащин с меню
         Scanner scanner = new Scanner(System.in);
         Scanner scanner2 = new Scanner(System.in);
         Shop shop = new Shop();

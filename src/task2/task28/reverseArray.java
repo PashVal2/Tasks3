@@ -3,9 +3,9 @@ package task2.task28;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class reverseArray {
+public class reverseArray { // класс reverseArray
 
-    public static void revers(ArrayList<String> list) {
+    public static void revers(ArrayList<String> list) { // метод  меняющий элементы в обратном порядке
         String sym;
         int N = list.size();
         for (int i = 0; i < N / 2; i++) {
@@ -14,8 +14,8 @@ public class reverseArray {
             list.set(i, sym);
         }
     }
-    public static void main(String[] args) {
-        ArrayList<String>list = new ArrayList<String>();
+    public static void main(String[] args) { // тестирование метода
+        ArrayList<String>list = new ArrayList<>();
         Scanner s = new Scanner(System.in);
         Scanner s1 = new Scanner(System.in);
         System.out.print("Кол-во чисел: ");

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Tester {
     public Circle[] circles = new Circle[3];
     public int cnt = 0;
-    public Tester create(Tester t) {
+    public Tester create(Tester t) { // тестирование классов точки и окружности
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите радиус круга: ");
